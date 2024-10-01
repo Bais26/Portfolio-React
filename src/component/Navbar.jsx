@@ -64,9 +64,6 @@ export default function Navbar() {
                         </div>
                     )}
                 </div>
-                <div className="flex">
-                    
-                </div>
             </div>
         </div>
     );
